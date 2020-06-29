@@ -5,6 +5,7 @@ __pycache__/
 
 # API Keys
 api_keys.py
+api-test.ipynb
 
 # C extensions
 *.so
